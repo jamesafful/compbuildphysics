@@ -24,7 +24,7 @@ export default function ContactPage() {
 
       <h2 className="text-xl font-semibold mb-2">Contact Form</h2>
       <form
-        action="https://formspree.io/f/your-form-id" // replace with your Formspree or Netlify endpoint
+        action="https://formspree.io/f/meozakkw" // replace with your Formspree or Netlify endpoint
         method="POST"
         className="space-y-6"
       >
